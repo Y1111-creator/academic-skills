@@ -1,0 +1,7 @@
+interface:
+  display_name: "论文精简与表达"
+  short_description: "Remove clutter and improve scientific prose"
+  default_prompt: "Use $manuscript-writing-review to improve my manuscript while preserving data, equations, citations, and scientific meaning."
+
+policy:
+  allow_implicit_invocation: true

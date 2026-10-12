@@ -1,0 +1,18 @@
+{
+  "repository": "https://github.com/tianlin922-dot/paper-polishing-skill",
+  "commit": "d103dac65b90faf13aa2ddf7add24adc99f0469d",
+  "upstream_directory": ".",
+  "upstream_frontmatter": {
+    "name": "paper-polishing-v1",
+    "description": "Use this skill when the user wants to polish, rewrite, translate, restructure, diagnose, or final-check academic manuscripts for English journal submission, especially when converting Chinese-style academic writing into English journal-style argumentation. This includes SCI/SSCI paper polishing, abstract improvement, introduction/literature review/method/results/discussion/conclusion rewriting, reviewer-style diagnosis, terminology consistency checks, Chinese-to-English academic rewriting, policy implications refinement, and AI-trace cleanup. Do not use it to fabricate data, citations, experiments, findings, or unsupported claims."
+  },
+  "imported_on": "2026-10-12",
+  "changes": [
+    "Normalized SKILL.md frontmatter to name and description for this host; retained remaining metadata here.",
+    "Added Chinese UI labels and a source link; retained upstream body and bundled resources."
+  ],
+  "files": {
+    "SKILL.md": "fb20471cac4cc012582d53560e8025dd7022eb5c2cc1d0bf901c736ada4440f8",
+    "resources/paper_polishing_prompt_library.md": "06f94ac497c2a77f45addc1d29827bb9a05f604282295c346afca6b1c9888cfb"
+  }
+}

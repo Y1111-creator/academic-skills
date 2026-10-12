@@ -1,0 +1,7 @@
+interface:
+  display_name: "期刊论文结构与润色"
+  short_description: "Improve section functions and manuscript argument"
+  default_prompt: "Use $paper-polishing-v1 to improve my manuscript while preserving data, equations, citations, and scientific meaning."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "commit": "92ace75ac21efe19a620434e0ca4e356081fe807",
+  "copied_files": [
+    "skills/citation-management/scripts/_common.py",
+    "skills/citation-management/scripts/format_bibtex.py"
+  ],
+  "adaptation": "Local-only formatter and manual metadata review. Network search and credential-reading scripts omitted. Skill instructions rewritten for Chinese manuscripts and EndNote handoff.",
+  "license": "MIT",
+  "imported_on": "2026-10-12"
+}

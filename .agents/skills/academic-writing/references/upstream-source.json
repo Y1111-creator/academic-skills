@@ -1,0 +1,23 @@
+{
+  "repository": "https://github.com/Brandon030722/academic-writing-skill",
+  "commit": "531fde1aff669eb6c8cd7ede0d2fe044ef24d339",
+  "upstream_directory": "academic-writing",
+  "upstream_frontmatter": {
+    "name": "academic-writing",
+    "description": "Draft, translate, restructure, revise, shorten, expand, humanize, analyze, and reviewer-audit academic papers and paper sections in English or Chinese while preserving LaTeX or Word-friendly formatting and grounding every claim in supplied evidence. Use for titles, abstracts, introductions, related work, methods, experiments, discussions, limitations, figure or table captions, Chinese-English academic translation, LaTeX or plain-text polishing, evidence-based experiment analysis, paper-wide coherence checks, and reviewer-style reports. Do not use for literature discovery alone, citation fabrication, or drawing figures; pair with appropriate research, citation, document, or visualization tools when those operations are needed."
+  },
+  "imported_on": "2026-10-12",
+  "changes": [
+    "Normalized SKILL.md frontmatter to name and description for this host; retained remaining metadata here.",
+    "Added Chinese UI labels and a source link; retained upstream body and bundled resources."
+  ],
+  "files": {
+    "SKILL.md": "3446b45f4eec014729ef13d63d3d7f290983f214ded922d39b3110b97c757995",
+    "references/task-modes.md": "9d9a78fccecf723f8bb52d13942d3121240a47dcafac01885dd6fd295c02b401",
+    "references/review-and-qa.md": "f17dbb0099814e1e14d65a25dd1c8c620d55837da35e14186e8a15e6f2e5b607",
+    "references/section-architecture.md": "2a093c974267e9d40fffc8cc46c64f3afcc56716c06b946db5ce4623794924b9",
+    "references/core-writing-standard.md": "5be06a6ccfe20b8541b32a922f79d4fe1907e60b101f7795474f2971db5d046d",
+    "references/top-journal-patterns.md": "ec0c737f06632bc7fe09cc031b50419103dbc1c3b4a7bc58d1a2fb3a7ac53d00",
+    "agents/openai.yaml": "663f6932e7e9ebdb2a9764065ea97e3fca464c88fb55ac86d7356b0edeecc27a"
+  }
+}

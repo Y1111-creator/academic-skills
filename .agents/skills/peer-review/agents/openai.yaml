@@ -1,0 +1,7 @@
+interface:
+  display_name: "论文审稿检查"
+  short_description: "Assess manuscript evidence, methods and reporting gaps"
+  default_prompt: "Use $peer-review to improve my manuscript while preserving data, equations, citations, and scientific meaning."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,4 @@
+interface:
+  display_name: "离线文献整理"
+  short_description: "Check local references and format or deduplicate BibTeX"
+  default_prompt: "Use $citation-management-offline to organize my references by subsection."

@@ -1,0 +1,7 @@
+interface:
+  display_name: "论文结构与论证"
+  short_description: "Restructure papers with evidence and clear logic"
+  default_prompt: "Use $academic-writing to improve my manuscript while preserving data, equations, citations, and scientific meaning."
+
+policy:
+  allow_implicit_invocation: true

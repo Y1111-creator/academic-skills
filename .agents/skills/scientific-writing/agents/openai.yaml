@@ -1,0 +1,7 @@
+interface:
+  display_name: "科学写作与一致性核查"
+  short_description: "Draft and audit scientific manuscripts with traceable evidence"
+  default_prompt: "Use $scientific-writing to improve my manuscript while preserving data, equations, citations, and scientific meaning."
+
+policy:
+  allow_implicit_invocation: false
